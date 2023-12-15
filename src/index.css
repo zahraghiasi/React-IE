@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    background-color: #8c81d2;
+    font-family: 'Vazirmatn', sans-serif;
+    direction: rtl;
+}
